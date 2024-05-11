@@ -1,0 +1,29 @@
+cp015603.xml
+'cpqsetup.exe
+'DoStorageTraceEtw.doc
+'elxplus.cat
+'elxplus.inf
+'elxplus.sys
+'elxplus_readme.txt
+'elxplus_relnotes.doc
+'elxstor driver parameters.doc
+'ELXSTOR Error Log Codes.doc
+'elxstor.cat
+'elxstor.dll
+'ELXSTOR.sys
+'ElxStorInstaller.dll
+'ElxStorPortVer.exe
+'FriendlyName.exe
+'install.xml
+'lpscsi
+'oemsetup.inf
+'sacd.cat
+'SACD.inf
+'sacdaa.cat
+'SACDaa.inf
+'storport_miniport_readme.txt
+'storport_miniport_relnotes.doc
+'SysConfig.frm
+'SysConfig.frm.ja
+'txtsetup.oem
+'
