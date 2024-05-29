@@ -3,9 +3,7 @@ import java.util.Scanner;
 
 public class main {
 
-    p ublic
-
-    static void main(String[] args) throws Exception {
+    public static void main(String[] args) throws Exception {
         System.out.println("hello world");
         Scanner iScanner = new Scanner(System.in);
         System.out.printf("Введите ваше имя: ");
